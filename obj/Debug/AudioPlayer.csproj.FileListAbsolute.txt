@@ -1,0 +1,124 @@
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Asio.dll
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Core.dll
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\NAudio.dll
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Midi.dll
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Wasapi.dll
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\NAudio.WinForms.dll
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\NAudio.WinMM.dll
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\NAudio.xml
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Form1.resources
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Welcome.resources
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Login.resources
+C:\Users\rabbasi004\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.SignUp.resources
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Asio.dll
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Core.dll
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\NAudio.dll
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Midi.dll
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Wasapi.dll
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\NAudio.WinForms.dll
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\NAudio.WinMM.dll
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\NAudio.xml
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Login.resources
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.SignUp.resources
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Welcome.resources
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\DELL\Downloads\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.UserPanel.resources
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Asio.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Core.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\NAudio.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Midi.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Wasapi.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\NAudio.WinForms.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\NAudio.WinMM.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\NAudio.xml
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.UserPanel.resources
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Login.resources
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.SignUp.resources
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Welcome.resources
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.AdminCRUD.resources
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.SongForm.resources
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.UpdateSongForm.resources
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.DeleteSong.resources
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.ResolveComReference.cache
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\bin\Debug\NAudio.xml
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.ResolveComReference.cache
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.AdminCRUD.resources
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.DeleteSong.resources
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.UpdateSongForm.resources
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.UserPanel.resources
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Login.resources
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.SignUp.resources
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Welcome.resources
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\HP\Downloads\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.InsertSongForm.resources

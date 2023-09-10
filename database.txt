@@ -1,0 +1,74 @@
+create database AudioPlayer
+
+Create Table User_LoginSignup( 
+ Username varchar (15), 
+ Password varchar (50), 
+ )
+
+select * from User_LoginSignup 
+insert into User_LoginSignup values('Alina','alina1');
+insert into User_LoginSignup values('Saba','saba1');
+insert into User_LoginSignup values('Ali', 'ali1'); 
+
+Create Table Admin_Login(  
+id int,
+ Adminname varchar (15), 
+ Password varchar (50), 
+)
+
+select * from Admin_Login 
+ insert into Admin_Login values(11,'Rahimeen','rah123');
+ insert into Admin_Login values(22,'Rehmana','reh123');
+ insert into Admin_Login values(33,'Anas','a123'); 
+
+-- Create the Songs table
+CREATE TABLE Songs (
+    SongID INT PRIMARY KEY,
+    Title NVARCHAR(100),
+    Artist NVARCHAR(100),
+    Album NVARCHAR(100),
+    Duration INT,
+    FilePath NVARCHAR(200)
+);
+
+-- Create the Playlists table
+CREATE TABLE Playlists (
+    PlaylistID INT PRIMARY KEY,
+    PlaylistName NVARCHAR(100)
+);
+
+-- Create the PlaylistSongs table
+CREATE TABLE PlaylistSongs (
+    PlaylistID INT,
+    SongID INT,
+    CONSTRAINT FK_PlaylistSongs_Playlists FOREIGN KEY (PlaylistID) REFERENCES Playlists (PlaylistID),
+    CONSTRAINT FK_PlaylistSongs_Songs FOREIGN KEY (SongID) REFERENCES Songs (SongID)
+);
+
+
+INSERT INTO Songs (SongID, Title, Artist, Album, Duration, FilePath)
+VALUES (4, 'Aise Kyon', 'Preeta', 'Album 2', 240, 'C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\Aise Kyon.mpeg'),
+(5, 'Faaslay', 'Abdul Hannan', 'Album 3', 200, 'C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\Faaslay.mpeg');
+
+INSERT INTO Songs (SongID, Title, Artist, Album, Duration, FilePath)
+VALUES (1, 'Kehdena', 'Annural', 'Album 1', 540, 'C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\Kehdena.mpeg'),
+(2, 'Dooriyan', 'Artist 2', 'Album 2', 240, 'C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\Kehdena.mpeg'),
+(3, 'Filhal', 'Artist 3', 'Album 3', 200, 'C:\Users\MEHWISH\Downloads\AudioPlayer (1)\AudioPlayer\AudioPlayer\Faaslay.mpeg');
+
+
+
+INSERT INTO Playlists (PlaylistID, PlaylistName)
+VALUES (1, 'POP'),
+(2, 'Desi Indie'),
+(3, 'Hip Hop');
+
+INSERT INTO PlaylistSongs (PlaylistID, SongID)
+VALUES (2, 5), (3,4);
+
+INSERT INTO PlaylistSongs (PlaylistID, SongID)
+VALUES (1, 1),
+(1, 2),
+(2, 2),
+(2, 3),
+(3, 1),
+(3, 3);
